@@ -55,13 +55,13 @@ A full-stack academic management system built with Laravel, MySQL, Docker, and B
 ![Lecturers](docs/Screenshots/Lecturers.png)
 
 ### Add Student Example
-![Add Student](docs/Screenshots/add-example.png)
+![Add Student](docs/Screenshots/add-student.png)
 
 ### Edit Student Example
-![Edit Student](docs/Screenshots/edit-example.png)
+![Edit Student](docs/Screenshots/edit-student.png)
 
 ### Delete Example
-![Delete Example](docs/Screenshots/delete-example.png)
+![Delete Example](docs/Screenshots/delete-student.png)
 
 ---
 
